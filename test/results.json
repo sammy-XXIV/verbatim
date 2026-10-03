@@ -1,0 +1,22 @@
+{
+  "cases": 72,
+  "total": 68,
+  "rows": [
+    {
+      "name": "bare model",
+      "right": 64,
+      "wrong": 9,
+      "lost": 4,
+      "asked": 0,
+      "perfect": 34
+    },
+    {
+      "name": "tally",
+      "right": 65,
+      "wrong": 0,
+      "lost": 0,
+      "asked": 38,
+      "perfect": 69
+    }
+  ]
+}

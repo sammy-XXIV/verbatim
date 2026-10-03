@@ -1,0 +1,1195 @@
+{
+  "good morning! can I get 4 sausage rolls and 2 chicken pies": {
+    "lines": [
+      {
+        "quote": "4 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 4,
+        "unit": null
+      },
+      {
+        "quote": "2 chicken pies",
+        "item": "chicken pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "1 big loaf and 2 small loaves": {
+    "lines": [
+      {
+        "quote": "1 big loaf",
+        "item": "big loaf",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "2 small loaves",
+        "item": "small loaves",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "Hi Mama, 2 meat pies please": {
+    "lines": [
+      {
+        "quote": "2 meat pies",
+        "item": "meat pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "a dozen doughnuts for the office pls": {
+    "lines": [
+      {
+        "quote": "a dozen doughnuts",
+        "item": "doughnuts",
+        "quantity": 1,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "3 packs of chin chin": {
+    "lines": [
+      {
+        "quote": "3 packs of chin chin",
+        "item": "chin chin",
+        "quantity": 3,
+        "unit": "pack"
+      }
+    ]
+  },
+  "two boxes of cupcakes, thank you": {
+    "lines": [
+      {
+        "quote": "two boxes of cupcakes",
+        "item": "cupcakes",
+        "quantity": 2,
+        "unit": "box"
+      }
+    ]
+  },
+  "6 doughnuts, 6 cupcakes": {
+    "lines": [
+      {
+        "quote": "6 doughnuts",
+        "item": "doughnuts",
+        "quantity": 6,
+        "unit": null
+      },
+      {
+        "quote": "6 cupcakes",
+        "item": "cupcakes",
+        "quantity": 6,
+        "unit": null
+      }
+    ]
+  },
+  "I need 1 birthday cake for Saturday": {
+    "lines": [
+      {
+        "quote": "1 birthday cake",
+        "item": "birthday cake",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "2 dozen meat pies": {
+    "lines": [
+      {
+        "quote": "2 dozen meat pies",
+        "item": "meat pies",
+        "quantity": 2,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "hello, 5 chicken pies": {
+    "lines": [
+      {
+        "quote": "5 chicken pies",
+        "item": "chicken pies",
+        "quantity": 5,
+        "unit": null
+      }
+    ]
+  },
+  "one family loaf": {
+    "lines": [
+      {
+        "quote": "one family loaf",
+        "item": "family loaf",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "please send 10 meat pies and 10 sausage rolls to the shop": {
+    "lines": [
+      {
+        "quote": "10 meat pies",
+        "item": "meat pies",
+        "quantity": 10,
+        "unit": null
+      },
+      {
+        "quote": "10 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 10,
+        "unit": null
+      }
+    ]
+  },
+  "8 sausage rolls": {
+    "lines": [
+      {
+        "quote": "8 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 8,
+        "unit": null
+      }
+    ]
+  },
+  "3 small bread and 1 big bread": {
+    "lines": [
+      {
+        "quote": "3 small bread",
+        "item": "small bread",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "1 big bread",
+        "item": "big bread",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "a box of doughnuts and a box of cupcakes": {
+    "lines": [
+      {
+        "quote": "a box of doughnuts",
+        "item": "doughnuts",
+        "quantity": 1,
+        "unit": "box"
+      },
+      {
+        "quote": "a box of cupcakes",
+        "item": "cupcakes",
+        "quantity": 1,
+        "unit": "box"
+      }
+    ]
+  },
+  "Can I order 12 cupcakes for my daughter's party": {
+    "lines": [
+      {
+        "quote": "12 cupcakes",
+        "item": "cupcakes",
+        "quantity": 12,
+        "unit": null
+      }
+    ]
+  },
+  "evening ma. 3 meat pies, 2 sausage rolls, 1 small loaf. I'll pick up by 6": {
+    "lines": [
+      {
+        "quote": "3 meat pies",
+        "item": "meat pies",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "2 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 2,
+        "unit": null
+      },
+      {
+        "quote": "1 small loaf",
+        "item": "small loaf",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "4 donuts": {
+    "lines": [
+      {
+        "quote": "4 donuts",
+        "item": "donuts",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "1 dozen chicken pies and 1 dozen meat pies": {
+    "lines": [
+      {
+        "quote": "1 dozen chicken pies",
+        "item": "chicken pies",
+        "quantity": 1,
+        "unit": "dozen"
+      },
+      {
+        "quote": "1 dozen meat pies",
+        "item": "meat pies",
+        "quantity": 1,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "two packs chin chin + 4 doughnuts": {
+    "lines": [
+      {
+        "quote": "two packs chin chin",
+        "item": "chin chin",
+        "quantity": 2,
+        "unit": "pack"
+      },
+      {
+        "quote": "4 doughnuts",
+        "item": "doughnuts",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "seven sausage rolls please": {
+    "lines": [
+      {
+        "quote": "seven sausage rolls please",
+        "item": "sausage rolls",
+        "quantity": 7,
+        "unit": null
+      }
+    ]
+  },
+  "1 pack of chin chin and 1 birthday cake": {
+    "lines": [
+      {
+        "quote": "1 pack of chin chin",
+        "item": "chin chin",
+        "quantity": 1,
+        "unit": "pack"
+      },
+      {
+        "quote": "1 birthday cake",
+        "item": "birthday cake",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "I'd like 20 meat pies for a meeting tomorrow": {
+    "lines": [
+      {
+        "quote": "20 meat pies",
+        "item": "meat pies",
+        "quantity": 20,
+        "unit": null
+      }
+    ]
+  },
+  "half dozen doughnuts": {
+    "lines": [
+      {
+        "quote": "half dozen doughnuts",
+        "item": "doughnuts",
+        "quantity": 0.5,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "hey! 15 chicken pies for the church event": {
+    "lines": [
+      {
+        "quote": "15 chicken pies",
+        "item": "chicken pies",
+        "quantity": 15,
+        "unit": null
+      }
+    ]
+  },
+  "2 boxes doughnuts": {
+    "lines": [
+      {
+        "quote": "2 boxes doughnuts",
+        "item": "doughnuts",
+        "quantity": 2,
+        "unit": "box"
+      }
+    ]
+  },
+  "Mama abeg 2 big loaf": {
+    "lines": [
+      {
+        "quote": "2 big loaf",
+        "item": "big loaf",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "3 cupcakes and 3 doughnuts and 3 meat pies": {
+    "lines": [
+      {
+        "quote": "3 cupcakes",
+        "item": "cupcakes",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "3 doughnuts",
+        "item": "doughnuts",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "3 meat pies",
+        "item": "meat pies",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "3 pies please": {
+    "lines": [
+      {
+        "quote": "3 pies please",
+        "item": "pies",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "5 small loaves": {
+    "lines": [
+      {
+        "quote": "5 small loaves",
+        "item": "small loaves",
+        "quantity": 5,
+        "unit": null
+      }
+    ]
+  },
+  "one chicken pie and one meat pie": {
+    "lines": [
+      {
+        "quote": "one chicken pie",
+        "item": "chicken pie",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "one meat pie",
+        "item": "meat pie",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "can I get 2 loaves": {
+    "lines": [
+      {
+        "quote": "can I get 2 loaves",
+        "item": "loaves",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "2 sausage rolls and 2 pies": {
+    "lines": [
+      {
+        "quote": "2 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 2,
+        "unit": null
+      },
+      {
+        "quote": "2 pies",
+        "item": "pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "1 bread and 4 meat pies": {
+    "lines": [
+      {
+        "quote": "1 bread",
+        "item": "bread",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "4 meat pies",
+        "item": "meat pies",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "send 5 bread": {
+    "lines": [
+      {
+        "quote": "5 bread",
+        "item": "bread",
+        "quantity": 5,
+        "unit": null
+      }
+    ]
+  },
+  "a dozen pies for the party": {
+    "lines": [
+      {
+        "quote": "a dozen pies for the party",
+        "item": "pies",
+        "quantity": 1,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "send meat pies": {
+    "lines": [
+      {
+        "quote": "send meat pies",
+        "item": "meat pies",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "two loaves and a box of cupcakes": {
+    "lines": [
+      {
+        "quote": "two loaves",
+        "item": "loaves",
+        "quantity": 2,
+        "unit": null
+      },
+      {
+        "quote": "a box of cupcakes",
+        "item": "cupcakes",
+        "quantity": 1,
+        "unit": "box"
+      }
+    ]
+  },
+  "I want doughnuts and 2 chicken pies": {
+    "lines": [
+      {
+        "quote": "doughnuts",
+        "item": "doughnuts",
+        "quantity": null,
+        "unit": null
+      },
+      {
+        "quote": "2 chicken pies",
+        "item": "chicken pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "6 pies, 6 doughnuts": {
+    "lines": [
+      {
+        "quote": "6 pies",
+        "item": "pies",
+        "quantity": 6,
+        "unit": null
+      },
+      {
+        "quote": "6 doughnuts",
+        "item": "doughnuts",
+        "quantity": 6,
+        "unit": null
+      }
+    ]
+  },
+  "same as last time": {
+    "lines": []
+  },
+  "the usual please": {
+    "lines": []
+  },
+  "sausage rolls and chin chin": {
+    "lines": [
+      {
+        "quote": "sausage rolls",
+        "item": "sausage rolls",
+        "quantity": null,
+        "unit": null
+      },
+      {
+        "quote": "chin chin",
+        "item": "chin chin",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "cupcakes for 10 people": {
+    "lines": [
+      {
+        "quote": "cupcakes for 10 people",
+        "item": "cupcakes",
+        "quantity": 10,
+        "unit": null
+      }
+    ]
+  },
+  "some doughnuts": {
+    "lines": [
+      {
+        "quote": "some doughnuts",
+        "item": "doughnuts",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "can you do a birthday cake?": {
+    "lines": []
+  },
+  "big loaf pls": {
+    "lines": [
+      {
+        "quote": "big loaf pls",
+        "item": "big loaf",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "a few meat pies and 1 big loaf": {
+    "lines": [
+      {
+        "quote": "a few meat pies",
+        "item": "meat pies",
+        "quantity": null,
+        "unit": null
+      },
+      {
+        "quote": "1 big loaf",
+        "item": "big loaf",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "maybe 4 doughnuts, not sure yet": {
+    "lines": [
+      {
+        "quote": "maybe 4 doughnuts",
+        "item": "doughnuts",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "a couple of sausage rolls": {
+    "lines": [
+      {
+        "quote": "a couple of sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "lots of cupcakes!!": {
+    "lines": [
+      {
+        "quote": "lots of cupcakes!!",
+        "item": "cupcakes",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "2 or 3 chicken pies": {
+    "lines": [
+      {
+        "quote": "2 or 3 chicken pies",
+        "item": "chicken pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "2 croissants please": {
+    "lines": [
+      {
+        "quote": "2 croissants please",
+        "item": "croissants",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "do you have scones? 4 please": {
+    "lines": [
+      {
+        "quote": "do you have scones? 4 please",
+        "item": "scones",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "1 big loaf and 3 muffins": {
+    "lines": [
+      {
+        "quote": "1 big loaf",
+        "item": "big loaf",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "3 muffins",
+        "item": "muffins",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "3 puff puff and 2 meat pies": {
+    "lines": [
+      {
+        "quote": "3 puff puff",
+        "item": "puff puff",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "2 meat pies",
+        "item": "meat pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "10 egg rolls": {
+    "lines": [
+      {
+        "quote": "10 egg rolls",
+        "item": "egg rolls",
+        "quantity": 10,
+        "unit": null
+      }
+    ]
+  },
+  "2 dozen big loaf": {
+    "lines": [
+      {
+        "quote": "2 dozen big loaf",
+        "item": "big loaf",
+        "quantity": 2,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "a wedding cake": {
+    "lines": [
+      {
+        "quote": "a wedding cake",
+        "item": "wedding cake",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "a box of meat pies": {
+    "lines": [
+      {
+        "quote": "a box of meat pies",
+        "item": "meat pies",
+        "quantity": null,
+        "unit": "box"
+      }
+    ]
+  },
+  "3 dozen chin chin": {
+    "lines": [
+      {
+        "quote": "3 dozen chin chin",
+        "item": "chin chin",
+        "quantity": 3,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "2 packs of doughnuts": {
+    "lines": [
+      {
+        "quote": "2 packs of doughnuts",
+        "item": "doughnuts",
+        "quantity": 2,
+        "unit": "pack"
+      }
+    ]
+  },
+  "half a birthday cake": {
+    "lines": [
+      {
+        "quote": "half a birthday cake",
+        "item": "birthday cake",
+        "quantity": 0.5,
+        "unit": null
+      }
+    ]
+  },
+  "a box of sausage rolls and 2 cupcakes": {
+    "lines": [
+      {
+        "quote": "a box of sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 1,
+        "unit": "box"
+      },
+      {
+        "quote": "2 cupcakes",
+        "item": "cupcakes",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "my sister said your pies are the best lol. 3 meat pies and 3 chicken pies then": {
+    "lines": [
+      {
+        "quote": "3 meat pies",
+        "item": "meat pies",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "3 chicken pies",
+        "item": "chicken pies",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "ok so: 4 chicken pies\n2 sausage rolls\n1 pack chin chin\nthanks": {
+    "lines": [
+      {
+        "quote": "4 chicken pies",
+        "item": "chicken pies",
+        "quantity": 4,
+        "unit": null
+      },
+      {
+        "quote": "2 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 2,
+        "unit": null
+      },
+      {
+        "quote": "1 pack chin chin",
+        "item": "chin chin",
+        "quantity": 1,
+        "unit": "pack"
+      }
+    ]
+  },
+  "Hi Mama! Hope you're well. For Sunday I need 2 dozen meat pies, a box of cupcakes and 3 big loaves. Also do you deliver?": {
+    "lines": [
+      {
+        "quote": "2 dozen meat pies",
+        "item": "meat pies",
+        "quantity": 2,
+        "unit": "dozen"
+      },
+      {
+        "quote": "a box of cupcakes",
+        "item": "cupcakes",
+        "quantity": null,
+        "unit": "box"
+      },
+      {
+        "quote": "3 big loaves",
+        "item": "big loaves",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "for the office: 12 doughnuts, 12 cupcakes, plus 1 birthday cake (name on it: Tobi)": {
+    "lines": [
+      {
+        "quote": "12 doughnuts",
+        "item": "doughnuts",
+        "quantity": 12,
+        "unit": null
+      },
+      {
+        "quote": "12 cupcakes",
+        "item": "cupcakes",
+        "quantity": 12,
+        "unit": null
+      },
+      {
+        "quote": "1 birthday cake (name on it: Tobi)",
+        "item": "birthday cake (name on it: Tobi)",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "3 doughnts": {
+    "lines": [
+      {
+        "quote": "3 doughnts",
+        "item": "doughnts",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "2 meat pie": {
+    "lines": [
+      {
+        "quote": "2 meat pie",
+        "item": "meat pie",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "4 sausge rolls": {
+    "lines": [
+      {
+        "quote": "4 sausge rolls",
+        "item": "sausge rolls",
+        "quantity": 4,
+        "unit": null
+      }
+    ]
+  },
+  "1 big lof": {
+    "lines": [
+      {
+        "quote": "1 big lof",
+        "item": "big lof",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "4 packs chin chin, my kids finished the last ones in a day lol": {
+    "lines": [
+      {
+        "quote": "4 packs chin chin",
+        "item": "chin chin",
+        "quantity": 4,
+        "unit": "pack"
+      }
+    ]
+  },
+  "Please I need 3 dozen doughnuts by noon": {
+    "lines": [
+      {
+        "quote": "3 dozen doughnuts",
+        "item": "doughnuts",
+        "quantity": 3,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "morning! 6 chicken pies and 6 meat pies for the staff": {
+    "lines": [
+      {
+        "quote": "6 chicken pies",
+        "item": "chicken pies",
+        "quantity": 6,
+        "unit": null
+      },
+      {
+        "quote": "6 meat pies",
+        "item": "meat pies",
+        "quantity": 6,
+        "unit": null
+      }
+    ]
+  },
+  "can i have one box of cupcakes and two big loaves": {
+    "lines": [
+      {
+        "quote": "one box of cupcakes",
+        "item": "cupcakes",
+        "quantity": 1,
+        "unit": "box"
+      },
+      {
+        "quote": "two big loaves",
+        "item": "big loaves",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "9 sausage rolls": {
+    "lines": [
+      {
+        "quote": "9 sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 9,
+        "unit": null
+      }
+    ]
+  },
+  "eleven meat pies please": {
+    "lines": [
+      {
+        "quote": "eleven meat pies please",
+        "item": "meat pies",
+        "quantity": 11,
+        "unit": null
+      }
+    ]
+  },
+  "for friday: 1 birthday cake + 12 cupcakes": {
+    "lines": [
+      {
+        "quote": "1 birthday cake",
+        "item": "birthday cake",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "12 cupcakes",
+        "item": "cupcakes",
+        "quantity": 12,
+        "unit": null
+      }
+    ]
+  },
+  "Two small loaves pls. Thanks ma": {
+    "lines": [
+      {
+        "quote": "Two small loaves",
+        "item": "small loaves",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "bread x2": {
+    "lines": [
+      {
+        "quote": "bread x2",
+        "item": "bread",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "3 pies and 1 small loaf": {
+    "lines": [
+      {
+        "quote": "3 pies",
+        "item": "pies",
+        "quantity": 3,
+        "unit": null
+      },
+      {
+        "quote": "1 small loaf",
+        "item": "small loaf",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "do u have doughnuts today? if yes 5": {
+    "lines": []
+  },
+  "1 dozen sausage rolls & a box of doughnuts": {
+    "lines": [
+      {
+        "quote": "1 dozen sausage rolls",
+        "item": "sausage rolls",
+        "quantity": 1,
+        "unit": "dozen"
+      },
+      {
+        "quote": "a box of doughnuts",
+        "item": "doughnuts",
+        "quantity": 1,
+        "unit": "box"
+      }
+    ]
+  },
+  "2 baguettes and 2 meat pies": {
+    "lines": [
+      {
+        "quote": "2 baguettes",
+        "item": "baguettes",
+        "quantity": 2,
+        "unit": null
+      },
+      {
+        "quote": "2 meat pies",
+        "item": "meat pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "a dozen big loaves": {
+    "lines": [
+      {
+        "quote": "a dozen big loaves",
+        "item": "big loaves",
+        "quantity": 1,
+        "unit": "dozen"
+      }
+    ]
+  },
+  "a bunch of cupcakes": {
+    "lines": [
+      {
+        "quote": "a bunch of cupcakes",
+        "item": "cupcakes",
+        "quantity": null,
+        "unit": null
+      }
+    ]
+  },
+  "like 6 or 7 doughnuts": {
+    "lines": [
+      {
+        "quote": "like 6 or 7 doughnuts",
+        "item": "doughnuts",
+        "quantity": 6,
+        "unit": null
+      }
+    ]
+  },
+  "5 meatpies": {
+    "lines": [
+      {
+        "quote": "5 meatpies",
+        "item": "meatpies",
+        "quantity": 5,
+        "unit": null
+      }
+    ]
+  },
+  "3 cupcake": {
+    "lines": [
+      {
+        "quote": "3 cupcake",
+        "item": "cupcake",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "doughnuts for the whole class (24 kids)": {
+    "lines": [
+      {
+        "quote": "doughnuts for the whole class (24 kids)",
+        "item": "doughnuts",
+        "quantity": 24,
+        "unit": null
+      }
+    ]
+  },
+  "the usual, plus 2 chicken pies": {
+    "lines": [
+      {
+        "quote": "the usual",
+        "item": "the usual",
+        "quantity": null,
+        "unit": null
+      },
+      {
+        "quote": "2 chicken pies",
+        "item": "chicken pies",
+        "quantity": 2,
+        "unit": null
+      }
+    ]
+  },
+  "same order as Tobi's": {
+    "lines": []
+  },
+  "1 big loaf, 1 small loaf, 1 chicken pie, 1 meat pie, 1 sausage roll": {
+    "lines": [
+      {
+        "quote": "1 big loaf",
+        "item": "big loaf",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "1 small loaf",
+        "item": "small loaf",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "1 chicken pie",
+        "item": "chicken pie",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "1 meat pie",
+        "item": "meat pie",
+        "quantity": 1,
+        "unit": null
+      },
+      {
+        "quote": "1 sausage roll",
+        "item": "sausage roll",
+        "quantity": 1,
+        "unit": null
+      }
+    ]
+  },
+  "half dozen chicken pies and a pack of chin chin": {
+    "lines": [
+      {
+        "quote": "half dozen chicken pies",
+        "item": "chicken pies",
+        "quantity": 0.5,
+        "unit": "dozen"
+      },
+      {
+        "quote": "a pack of chin chin",
+        "item": "chin chin",
+        "quantity": 1,
+        "unit": "pack"
+      }
+    ]
+  },
+  "can I get 2 chicken pies? actually make it 3": {
+    "lines": [
+      {
+        "quote": "2 chicken pies? actually make it 3",
+        "item": "chicken pies",
+        "quantity": 3,
+        "unit": null
+      }
+    ]
+  },
+  "8 doughnuts but no sugar on 4 of them": {
+    "lines": [
+      {
+        "quote": "8 doughnuts but no sugar on 4 of them",
+        "item": "doughnuts",
+        "quantity": 8,
+        "unit": null
+      }
+    ]
+  }
+}

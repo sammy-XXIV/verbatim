@@ -1,0 +1,23 @@
+{
+  "model": "@cf/google/gemma-4-26b-a4b-it",
+  "cases": 25,
+  "total": 27,
+  "rows": [
+    {
+      "name": "bare model",
+      "right": 27,
+      "wrong": 3,
+      "lost": 0,
+      "asked": 0,
+      "perfect": 15
+    },
+    {
+      "name": "tally",
+      "right": 25,
+      "wrong": 0,
+      "lost": 0,
+      "asked": 12,
+      "perfect": 23
+    }
+  ]
+}

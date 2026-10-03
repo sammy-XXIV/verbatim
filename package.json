@@ -1,0 +1,6 @@
+{
+  "name": "tally",
+  "type": "module",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "node --test", "eval": "node eval.js" }
+}

@@ -1,0 +1,146 @@
+{
+  "shop": "Mama's Oven",
+  "currency": "$",
+  "items": [
+    {
+      "id": "meat-pie",
+      "name": "Meat pie",
+      "aliases": [
+        "meat pies",
+        "meatpie",
+        "meatpies"
+      ],
+      "price": 1.5,
+      "units": {
+        "piece": 1,
+        "dozen": 12
+      }
+    },
+    {
+      "id": "chicken-pie",
+      "name": "Chicken pie",
+      "aliases": [
+        "chicken pies"
+      ],
+      "price": 1.75,
+      "units": {
+        "piece": 1,
+        "dozen": 12
+      }
+    },
+    {
+      "id": "pie",
+      "name": "pie",
+      "aliases": [
+        "pies"
+      ],
+      "ambiguous": [
+        "meat-pie",
+        "chicken-pie"
+      ]
+    },
+    {
+      "id": "sausage-roll",
+      "name": "Sausage roll",
+      "aliases": [
+        "sausage rolls",
+        "sausage"
+      ],
+      "price": 1.25,
+      "units": {
+        "piece": 1,
+        "dozen": 12
+      }
+    },
+    {
+      "id": "doughnut",
+      "name": "Doughnut",
+      "aliases": [
+        "doughnuts",
+        "donut",
+        "donuts"
+      ],
+      "price": 0.75,
+      "units": {
+        "piece": 1,
+        "dozen": 12,
+        "box": 6
+      }
+    },
+    {
+      "id": "small-loaf",
+      "name": "Small loaf",
+      "aliases": [
+        "small loaves",
+        "small bread"
+      ],
+      "price": 2,
+      "units": {
+        "piece": 1
+      },
+      "plural": "Small loaves"
+    },
+    {
+      "id": "big-loaf",
+      "name": "Big loaf",
+      "aliases": [
+        "big loaves",
+        "big bread",
+        "family loaf"
+      ],
+      "price": 3.5,
+      "units": {
+        "piece": 1
+      },
+      "plural": "Big loaves"
+    },
+    {
+      "id": "loaf",
+      "name": "loaf",
+      "aliases": [
+        "loaves",
+        "bread"
+      ],
+      "ambiguous": [
+        "small-loaf",
+        "big-loaf"
+      ]
+    },
+    {
+      "id": "chin-chin",
+      "name": "Chin chin",
+      "aliases": [
+        "chinchin"
+      ],
+      "price": 4,
+      "units": {
+        "pack": 1
+      }
+    },
+    {
+      "id": "cupcake",
+      "name": "Cupcake",
+      "aliases": [
+        "cupcakes"
+      ],
+      "price": 1,
+      "units": {
+        "piece": 1,
+        "box": 6,
+        "dozen": 12
+      }
+    },
+    {
+      "id": "birthday-cake",
+      "name": "Birthday cake",
+      "aliases": [
+        "birthday cakes",
+        "cake"
+      ],
+      "price": 25,
+      "units": {
+        "piece": 1
+      }
+    }
+  ]
+}
