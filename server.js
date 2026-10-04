@@ -17,7 +17,7 @@ const body = req => new Promise((ok, fail) => {
 
 // Local open-weight speech-to-text (OpenAI Whisper CLI). Audio never leaves the machine.
 function transcribe(audio) {
-  const dir = mkdtempSync(join(tmpdir(), 'tally-'));
+  const dir = mkdtempSync(join(tmpdir(), 'verbatim-'));
   const file = join(dir, 'note.webm');
   writeFileSync(file, audio);
   const args = [file, '--model', process.env.WHISPER_MODEL ?? 'base', '--language', 'en',
@@ -64,4 +64,4 @@ createServer(async (req, res) => {
     console.error(e);
     send(res, 500, { error: 'something went wrong' });
   }
-}).listen(PORT, () => console.log(`Tally on http://localhost:${PORT}`));
+}).listen(PORT, () => console.log(`Verbatim on http://localhost:${PORT}`));

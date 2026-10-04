@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tally</title>
+<title>Verbatim</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
@@ -105,9 +105,9 @@
 <body>
 <header>
   <svg class="logo" viewBox="0 0 64 44" aria-hidden="true">
-    <path d="M8 6v32"/><path d="M20 6v32"/><path d="M32 6v32"/><path d="M44 6v32"/><path d="M2 34L58 10"/>
+    <path d="M12 8L7 22"/><path d="M22 8L17 22"/><path d="M47 22L42 36"/><path d="M57 22L52 36"/>
   </svg>
-  <h1>Tally</h1>
+  <h1>Verbatim</h1>
   <span class="shop" id="shop"></span>
 </header>
 
@@ -147,14 +147,14 @@ const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 const calm = matchMedia('(prefers-reduced-motion: reduce)').matches || !window.gsap;
 const tl = () => (calm ? null : gsap.timeline());
-let currency = '$', shop = 'Tally', last = null, sheet = [];
-try { sheet = JSON.parse(localStorage.getItem('tally-sheet') || '[]'); } catch {}
-const save = () => { try { localStorage.setItem('tally-sheet', JSON.stringify(sheet)); } catch {} };
+let currency = '$', shop = 'Verbatim', last = null, sheet = [];
+try { sheet = JSON.parse(localStorage.getItem('verbatim-sheet') || '[]'); } catch {}
+const save = () => { try { localStorage.setItem('verbatim-sheet', JSON.stringify(sheet)); } catch {} };
 const money = n => currency + n.toFixed(2);
 
 fetch('/api/catalog').then(r => r.json()).then(c => { currency = c.currency; shop = c.shop; $('shop').textContent = c.shop; });
 
-// One load moment: the logo draws its own tally marks.
+// One load moment: the logo draws its own quote marks.
 if (!calm) document.querySelectorAll('.logo path').forEach((p, i) => {
   const len = p.getTotalLength();
   gsap.fromTo(p, { strokeDasharray: len, strokeDashoffset: len }, { strokeDashoffset: 0, duration: .28, delay: .15 + i * .14, ease: 'power2.out' });

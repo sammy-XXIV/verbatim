@@ -1,4 +1,4 @@
-// Hosted Tally: Cloudflare Worker. Same validator as server.js; the open models
+// Hosted Verbatim: Cloudflare Worker. Same validator as server.js; the open models
 // (Gemma 4 for reading orders, Whisper for voice notes) run on Workers AI.
 import catalog from './catalog.json';
 import { validate } from './validate.js';

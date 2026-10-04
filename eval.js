@@ -1,7 +1,7 @@
 // Runs every labeled test message through the model once, then scores two systems
 // on the same extractions:
 //   bare     - trust the model's lines as-is (what a prompt + API key app does)
-//   tally    - the model's lines after validate.js
+//   verbatim - the model's lines after validate.js
 // Usage: node eval.js [--fresh]   (extractions are cached in test/extractions.json)
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { extract } from './extract.js';
@@ -52,7 +52,7 @@ function score(name, run) {
 
 const rows = [
   score('bare model', c => bare(cache[c.m])),
-  score('tally', c => validate(c.m, cache[c.m], catalog)),
+  score('verbatim', c => validate(c.m, cache[c.m], catalog)),
 ];
 const total = cases.reduce((n, c) => n + c.ok.length, 0);
 console.log(`${cases.length} messages, ${total} orderable lines, model: ${process.env.LLM_MODEL ?? 'default'}\n`);

@@ -1,5 +1,4 @@
 {
-  "model": "@cf/google/gemma-4-26b-a4b-it",
   "cases": 25,
   "total": 27,
   "rows": [
@@ -12,7 +11,7 @@
       "perfect": 15
     },
     {
-      "name": "tally",
+      "name": "verbatim",
       "right": 25,
       "wrong": 0,
       "lost": 0,

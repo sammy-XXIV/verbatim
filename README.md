@@ -1,8 +1,8 @@
-# Tally
+# Verbatim
 
 WhatsApp orders in, a clean order sheet out, and no guessed lines.
 
-A small bakery takes orders as messy chat and voice notes ("2 dozen meat pies, 3 pies and some doughnuts pls"). Tally reads each message with an open-weight model (Gemma 4), then a deterministic validator checks every proposed line against the shop's real price list. A line is confirmed only if the item, the quantity and the unit are all written in the customer's own words. Anything else is held, with a short question to send back.
+A small bakery takes orders as messy chat and voice notes ("2 dozen meat pies, 3 pies and some doughnuts pls"). Verbatim reads each message with an open-weight model (Gemma 4), then a deterministic validator checks every proposed line against the shop's real price list. A line is confirmed only if the item, the quantity and the unit are all written in the customer's own words. Anything else is held, with a short question to send back.
 
 ## What the validator refuses
 
@@ -16,23 +16,23 @@ A small bakery takes orders as messy chat and voice notes ("2 dozen meat pies, 3
 
 ## Results
 
-Same Gemma 4 extractions, scored two ways: "bare model" trusts the model's lines as-is, and "Tally" runs them through the validator.
+Same Gemma 4 extractions, scored two ways: "bare model" trusts the model's lines as-is, and "Verbatim" runs them through the validator.
 
 Development set: 72 messages, 68 orderable lines.
 
 | | Correct lines | Wrong lines committed | Lines lost silently | Messages fully right |
 |---|---|---|---|---|
 | Bare model | 64 | 9 | 4 | 34 |
-| Tally | 65 | 0 | 0 | 69 |
+| Verbatim | 65 | 0 | 0 | 69 |
 
 Held-out set: 25 messages written after the validator was finished and never tuned on.
 
 | | Correct lines | Wrong lines committed | Lines lost silently | Messages fully right |
 |---|---|---|---|---|
 | Bare model | 27 | 3 | 0 | 15 |
-| Tally | 25 | 0 | 0 | 23 |
+| Verbatim | 25 | 0 | 0 | 23 |
 
-The cost is questions. Tally asks the customer instead of guessing, so a few clear lines (typos, "actually make it 3") get held when a person would have understood them.
+The cost is questions. Verbatim asks the customer instead of guessing, so a few clear lines (typos, "actually make it 3") get held when a person would have understood them.
 
 ## Run it
 
